@@ -1,0 +1,13 @@
+{
+  "Homepage": {
+    "title": "Bem vindo à homepage",
+    "content": "Essa é a página inicial"
+  },
+  "LocaleLayout": {
+    "title": "next-intl example"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, pt-BR {🇩🇪 Portuguese} en {🇺🇸 English} other {Unknown}}"
+  }
+}
